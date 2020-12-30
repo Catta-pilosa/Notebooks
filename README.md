@@ -6,3 +6,5 @@ The textbook is GTM52, Hartshorne's book. In this note you can find explanations
 
 2. Note on the topic of **toric varities**. 
 The reference is William Fulton's 'Introduction to Toric Varieties'. This note contains section 3.1 and 3.2 of this book, which talks about the orbits of a toric varirty with torus action and fundamental group of toric vatieties. Another reference is Oda's book 'Convex Bodies and Algebraic Geometry: An introduction to the Theory of Toric Varieties'.
+
+3. Note on Friedman's book 'Algebraic Surfaces and Holomorphic Vector Bundles'.
