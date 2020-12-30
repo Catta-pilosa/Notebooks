@@ -1,5 +1,5 @@
 # Notebooks
-Here you can find some notes on **pure math** topics. The link of files is contained in source.md[https://github.com/Catta-pilosa/Notebooks/blob/main/source.md]
+Here you can find some notes on **pure math** topics. The link of files is contained in [source.md]（https://github.com/Catta-pilosa/Notebooks/blob/main/source.md）
 
 1. Note on the course MATH5251(L1) **Algebraic Geometry**. 
 The textbook is GTM52, Hartshorne's book. In this note you can find explanations on some points skipped by the author, and solutions to part of the excercises from section 1.1 to section 2.5.
